@@ -1,5 +1,5 @@
 {
-    "title": "U01-1 Das Erste Hindernis",
+    "title": "U01 | Das Erste Hindernis",
     "abstract": "Die erste kleine Aufgabe, in der Sie Bouncer durch seine Welt steuern.",
     "hasStarterCode": true,
     "hasSolutionCode": true,
@@ -8,5 +8,5 @@
     "advancedSolutionComment": "",
     "hasSimpleSolutionCode": false,
     "hasAdvancedSolutionCode": false,
-    "solutionAvailableOn": "2021-10-26"
+    "solutionAvailableOn": "2021-10-25"
 }
