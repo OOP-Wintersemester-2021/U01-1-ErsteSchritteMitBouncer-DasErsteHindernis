@@ -24,8 +24,9 @@ public class DasErsteHindernis extends BouncerApp {
      *                  bzw. Bouncer steht an der östlichen Wand.
      */
 	private void moveToObstacle() {
-		bouncer.move();
-        bouncer.move();
+		while(bouncer.canMoveForward()) {
+			bouncer.move();
+		}
 	}
 
     /**
